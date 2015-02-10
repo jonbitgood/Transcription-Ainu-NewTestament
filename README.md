@@ -1,4 +1,4 @@
-# Ainu-New-Testament
+# Ainu: New Testament
 
 ## Synopsis
 A project to edit the OCR scan of the Ainu New Testament by archive.org for accuracy and to convert it to the usfm standard.
