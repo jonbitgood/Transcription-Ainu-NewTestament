@@ -1,294 +1,98 @@
-
-CHIKORO UTARAPA NE 
-
-YESU KIEISTO 
-
-ASHIRI AEUITAKNUP 
-OMA KAMBI. 
-
-
-
-THE 
-
-NEW TESTAMENT 
-
-OK 
-
-OUR LOKD AND SAVIOUK 
-
-JESUS CHRIST 
-
-IN AINU 
-
-TRANSLATED OUT OF THE GREEK 
-
-BY THE 
-
-Eev. JOHN BATCHELOR C.M.S. 
-
-(SAPPORO, JAPAN). 
-
-
-
-PRINTED 
-
-FOR THE BIBLE SOCIETIES' COMMITTEE FOR JAPAN 
-
-BY THE YOKOHAMA BUNSHA. 
-1897. 
-
-
-
-CONTENTS 
-
-
-
-OSHKE OMAP. 
-
-
-
-
-
-
-
-Soshi. 
-
-
-Mattaios 
-
-
-. ... (S Matthew) 
-
-
-1 
-
-
-Markos 
-
-
-. ... (S. Mark) 
-
-
-.. 89 
-
-
-Koukos 
-
-
-. ... (S.Luke) 
-
-
-.. 145 
-
-
-Yoaniies 
-
-
-. ... (S. John) 
-
-
-.. 240 
-
-
-Apostoro ikip oma 
-
-
-kambi. (Acts) ... . 
-
-
-.. 315 
-
-
-Bouia 
-
-
-(Romans) 
-
-
-.. 4(6 
-
-
-I Korintos 
-
-
-(I Corinthians) 
-
-
-.. 443 
-
-
-II Korintos 
-
-
-(II Corinthians) 
-
-
-.. 480 
-
-
-Garatea 
-
-
-(Gralatians) 
-
-
-.. 506 
-
-
-Epesos 
-
-
-. ... (Epliesians) 
-
-
-.. 519 
-
-
-Piripoi 
-
-
-... (Philippians) 
-
-
-.. 581 
-
-
-Korosai 
-
-
-(Colossians) 
-
-
-.. 540 
-
-
-I Tessaronike .. 
-.. 549 
-
-
-II Tessaronike .. 
-
-
-(II Thessalonians) ... 
-
-
-.. 558 
-
-
-I Tiiuoteos 
-
-
-. ... (I Timothy) ... ... 
-
-
-.. 568 
-
-
-II Tiiiioteos 
-
-
-. ... (II Timotbv) 
-
-
-.. 574 
-
-
-Titus 
-
-
-. ... (Titus) 
-
-
-.. 582 
-
-
-Piriiiion 
-
-
-... (Philemon) 
-
-
-.. 587 
-
-
-Hebraios 
-
-
-(Hebrews) 
-
-
-.. 590 
-
-
-Yakob 
-
-
-(James) 
-
-
-.. 619 
-
-
-I Petros 
-
-
-. ... (I Peter) 
-
-
-.. 6-29 
-
-
-11 Petros 
-
-
-. ... (II Peter) , ... 
-
-
-.. 639 
-
-
-I Yoannes 
-
-
-. ... (I John) 
-
-
-. . 645 
-
-
-II Yoannes 
-
-
-. ... (II John) 
-
-
-.. 655 
-
-
-III Yoannes 
-
-
-. ... (Ill John) 
-
-
-.. 657 
-
-
-Yoadas 
-
-
-. ... (Jude) 
-
-
-... 658 
-
-
-Ekaujbakbe 
-
-
-... (Revektion) 
-
-
-... 661 
-
-
+\id FRT  
+\h Oshke Omap
+\rem   Status:
+\rem       Unreleased
+\rem       Complete
+\rem       Version 1.0
+\toc1 Oshke
+\toc2 Oshke Omap
+\mt Chikoro Utarapa Ne Yesu Kieisto Ashiri Aeuitaknup Oma Kambi
+\im Creative Commons Attribution-sharealike 4.0 International
+\im Translated By Eev. John Batchelor C.m.s.
+\im Printed For The Bible Societies' Committee For Japan By The Yokohama Bunsha 1897.
+\im Digitalized By The Digital Bible Society
+\is2 Oshke Omap
+\tr
+\th1 Book 
+\th2 Abbrev. 
+\tr
+\tc1 Mattaios
+\tc2 MAT 
+\tr
+\tc1 Markos
+\tc2 MAR 
+\tr
+\tc1 Roukos
+\tc2 ROU 
+\tr
+\tc1 Yoannes
+\tc2 YOA 
+\tr
+\tc1 Apostoro ikip oma kambi
+\tc2 APO 
+\tr
+\tc1 Roma
+\tc2 ROM 
+\tr
+\tc1 1 Korintos
+\tc2 1KO 
+\tr
+\tc1 2 Korintos
+\tc2 2KO 
+\tr
+\tc1 Garatea
+\tc2 GAR 
+\tr
+\tc1 Epesos
+\tc2 EPE 
+\tr
+\tc1 Piripoi
+\tc2 PIR 
+\tr
+\tc1 Korosai
+\tc2 KOR 
+\tr
+\tc1 1 Tessaronike
+\tc2 1TE 
+\tr
+\tc1 2 Tessaronike
+\tc2 2TE 
+\tr
+\tc1 1 Timoteos
+\tc2 1TI 
+\tr
+\tc1 2 Timoteos
+\tc2 2TI 
+\tr
+\tc1 Titus
+\tc2 TIT 
+\tr
+\tc1 Pirimon
+\tc2 PIR 
+\tr
+\tc1 Hebraios
+\tc2 HEB 
+\tr
+\tc1 Yakob
+\tc2 YAK 
+\tr
+\tc1 1 Petros
+\tc2 1PE 
+\tr
+\tc1 2 Petros
+\tc2 2PE 
+\tr
+\tc1 1 Yoannes
+\tc2 1YO 
+\tr
+\tc1 2 Yoannes
+\tc2 2YO 
+\tr
+\tc1 3 Yoannes
+\tc2 3YO 
+\tr
+\tc1 Yoadas
+\tc2 YOA 
+\tr
+\tc1 Ekambakbe
+\tc2 EKA
